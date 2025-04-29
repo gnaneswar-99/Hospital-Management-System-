@@ -1,0 +1,30 @@
+
+=== Hospital Management System ===
+1. Register New Patient
+2. View All Patients
+3. Search Patient by ID
+4. Delete Patient by ID
+5. Update Patient Details
+6. Exit
+Enter your choice: 1
+
+Enter Patient Name: John Doe
+Enter Age: 30
+Enter Gender: Male
+Enter Disease: Fever
+
+Patient Registered Successfully! Patient ID: 1
+
+=== Hospital Management System ===
+1. Register New Patient
+2. View All Patients
+3. Search Patient by ID
+4. Delete Patient by ID
+5. Update Patient Details
+6. Exit
+Enter your choice: 2
+
+List of Registered Patients:
+----------------------------------------
+ID: 1 | Name: John Doe | Age: 30 | Gender: Male | Disease: Fever
+----------------------------------------
